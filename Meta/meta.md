@@ -1,4 +1,8 @@
-## Tending the garden 
+# Meta 
+
+Let me discuss a few details about how I plan to create this garden 
+
+## Tending the garden
 
 How does one tend to a digital garden? My research into digital gardens led me to digital notes by [Andy Matsuchak](https://notes.andymatuschak.org/About_these_notes) where he suggests the use of [**Evergreen Notes**](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be). These are notes that aren't taken just at the spur of the moment, but are created through deep reflection and thought. These notes will of course build upon "rougher" notes that you accumulate over time. 
 
